@@ -1,0 +1,78 @@
+ip:TI02:80:Informatica:Thiago
+ip:TI01:80:Informatica:Ricardo
+ip:VENDEDORES-VEMA:80:Vemar:Vendedores
+ip:ESTOQUE2:80:Peças:Estoque02
+ip:ENTREGA02:80:VendasNovos:Giovanna
+ip:RECEPTIVO-ATC:80:AssTec:Michele
+ip:VEMAR-ADM02:80:Vemar:Rosangela
+ip:SEMINOVOS04:80:Seminovos:Ivanildo
+ip:SEMINOVOS03:80:Seminovos:Filipe
+ip:ESTOQUE-ZE:80:Peças:José
+ip:PROGRAMADOR01:80:AssTec:Anderson
+ip:CENTRAL-05:80:Central:Eliseu
+ip:CENTRAL-MESA:80:Central:Bianca / Emmily
+ip:NAC-01:80:NAC:Leonardo
+ip:VEMAR-ADM01:80:Vemar:Ana Beatriz
+ip:VENDEDORVEMAR:80:Vemar:Vendedores
+ip:GESTOR-VEMAR:80:Vemar:Fernando
+ip:ACESSORIOS:80:NAC:Lilian
+ip:BALCAO02:80:Peças:Vendedor
+ip:RECEPCAOCONSULT:80:AssTec:Marlene
+ip:OFICINA-01:80:Oficina:Mecanico
+ip:BALCAO-01:80:Peças:Valdir
+ip:COMPRAS:80:Financeiro:Monica/Compra
+ip:FINANCEIRO04:80:Financeiro:Monica/Financeiro
+ip:VENDASNOVOS02:80:Frotas:Evelyn
+ip:FROTAS05:80:Frotas:Rodrigo Junot
+ip:GESTORPECAS:80:Peças:Wagner
+ip:CENTRAL03:80:Central:Heloisa
+ip:CONSULTOR01:80:AssTec:Celso
+ip:SINISTRO:80:Terceiros:Rogerio
+ip:CENTRAL07:80:Central:Denise
+ip:PECAS09:80:Peças:Gabriel
+ip:CENTRAL02:80:Central:Fernanda
+ip:CAIXA:80:Vendasnovos:Janaina
+ip:FINANCEIRO03:80:Financeiro:Beatriz
+ip:GESTORSERVICOS:80:AssTec:Junior
+ip:DIRETORIA04:80:Diretoria:Dona Ero
+ip:SANDRA-VEMAR:80:Vemar:Sandra
+ip:PECAS05:80:Peças:Renilton
+ip:CHEFEOFICINA:80:Oficina:Dhiego
+ip:DIRETORIA03:80:Diretoria:Vania
+ip:FINANCEIRO04:80:Financeiro:Monica
+ip:CPAGAR02:80:Financeiro:Larissa
+ip:CPAGAR01:80:Financeiro:Rose
+ip:SUPERVISOR-WEB:80:Vendasnovos:Amarildo
+ip:NOVOS-NOTE01:80:Vendasnovos:Jackeline
+ip:FROTAS07:80:Frotas:Klause
+ip:CONSULTOR02:80:AssTec:Orlando
+ip:DIRETORIA02:80:Diretoria:Oldemiro
+ip:PRINTSERVER:80:Informatica:PrintServer
+ip:GER-SEMINOVOS:80:Seminovos:Carlos
+ip:CENTRAL-SUP:80:Central:Edilene
+ip:SEMINOVOS05:80:Seminovos:Diego
+ip:SEMINOVOS01:80:Seminovos:Junior
+ip:FROTAS07:80:Frotas:Klause
+ip:FROTAS01:80:Frotas:Thiago Costa
+ip:FROTAS03:80:Frotas:Rafael
+ip:DIRETORIA-01:80:Diretoria:Cleide
+ip:VENDASNOVOS12:80:Vendasnovos:Eduardo
+ip:RECEPCAO-VENDAS:80:Vendasnovos:Recepção
+ip:VENDASNOVOS13:80:Vendasnovos:Raphael Macedo
+ip:GER-VENDASNOVOS:80:Vendasnovos:Janete
+ip:VENDASNOVOS01:80:Vendasnovos:Webert
+ip:VENDASNOVOS08:80:Vendasnovos:Mario Ramos
+ip:VENDASNOVOS06:80:Vendasnovos:Vinicius
+ip:VENDASNOVOS04:80:Frotas:Marco
+ip:NAC04:80:NAC:Walquiria
+ip:GESTOR-NAC:80:NAC:William
+ip:CONSULTOR04:80:AssTec:Peres
+ip:MARTESERVER01:80:Informatica:Servidor01
+ip:MARTESERVER02:80:Informatica:Servidor02
+ip:PECAS08:80:Peças:Léo
+ip:PECAS07:80:Peças:Gerson
+ip:PECAS02:80:Peças:Samuel
+ip:PECAS01:80:Peças:Yann
+ip:ELIANE:80:AssTec:Eliane
+ip:CONSULTOR03:80:AssTec:Cardoso
+ip:GER-FINANCEIRO:80:Financeiro:Simone
