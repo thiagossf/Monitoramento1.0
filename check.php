@@ -7,7 +7,7 @@
 
 	$ip2 =gethostbyname($ip); //TRANSFORMA HOSTNAME pelo IP, EX: TI02 transforma em 192.168.0.100
 
-	exec('ping -n 1 -w 1 ' . $ip, $saida, $retorno); // EXECUTA COMANDO PING 
+	exec('ping -n 1 -w 1 ' . $ip2, $saida, $retorno); // EXECUTA COMANDO PING 
 
 	if ($retorno == 0){ // SE RETORNO FOR = 0 o HOST ESTA ONLINE
 		echo $online;
